@@ -33,10 +33,6 @@ scikit-learn ,
 matplotlib ,
 seaborn 
 
-You can install the required libraries using the following command:
-bash
-Copy code
-pip install -r requirements.txt
 
 Conclusion
 This project showcases the process of building and evaluating machine learning models for classification tasks. By predicting wine quality based on its chemical properties, this project provides a practical example of applying data science techniques to a real-world problem.
