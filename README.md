@@ -26,12 +26,12 @@ README.md: This file, providing an overview of the project.
 Dependencies
 
 To run the code in this repository, you'll need the following libraries:
-Python 3.x
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+Python 3.x ,
+pandas ,
+numpy ,
+scikit-learn ,
+matplotlib ,
+seaborn 
 
 You can install the required libraries using the following command:
 bash
