@@ -2,6 +2,7 @@
 This repository contains a machine learning project aimed at predicting the quality of wine based on various chemical properties. The dataset used for this project is the Wine Quality dataset, which includes information on different physicochemical attributes of wine, such as acidity, sugar content, pH, and alcohol levels, among others.
 
 Project Overview
+
 The goal of this project is to build a predictive model that can accurately classify the quality of wine on a scale of 0 to 10. The project involves data preprocessing, exploratory data analysis (EDA), feature engineering, and the application of various machine learning algorithms to determine the most accurate model for prediction.
 
 Steps Involved
